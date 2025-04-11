@@ -1,79 +1,48 @@
-# Personal Portfolio Website
+# Shawn Rhoads - Computer Engineer Portfolio
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This website is designed to showcase your projects and skills as a software engineer.
+This repository contains my professional portfolio website, showcasing my work in computer engineering, with a focus on avionics, strategic intelligence systems, and artificial intelligence applications.
 
-## Features
+## About
 
-- Responsive design that works on all devices
-- Modern and clean user interface
-- Smooth scrolling navigation
-- Project showcase section
-- Skills and about section
-- Contact information with social links
-- Animated sections on scroll
+This website serves as a central hub for my engineering work, featuring:
 
-## Setup Instructions
+- Hardware and software projects in avionics and embedded systems
+- Strategic intelligence platforms and applications
+- Artificial intelligence implementations
+- Technical expertise and skills
 
-1. Fork this repository
-2. Clone your forked repository to your local machine
-3. Customize the content in `index.html` with your personal information
-4. Update the styling in `styles.css` if desired
-5. Add your projects to the projects section
-6. Update social media links in the contact section
+## Professional Focus
 
-## Customization
+My work spans several key areas:
 
-### Personal Information
-Edit the following sections in `index.html`:
-- Hero section with your name and title
-- About section with your bio
-- Skills section with your technical skills
-- Projects section with your work
-- Contact section with your social links
+- **Avionics**: Developing embedded control systems for aircraft navigation and communication
+- **Strategic Intelligence**: Building systems for data collection, analysis, and interpretation
+- **Artificial Intelligence**: Implementing AI solutions for complex problem-solving
+- **Hardware Design**: Creating efficient and reliable hardware solutions
 
-### Styling
-The website uses CSS variables for easy customization. Edit the following in `styles.css`:
-```css
-:root {
-    --primary-color: #2563eb;
-    --secondary-color: #1e40af;
-    --text-color: #1f2937;
-    --light-text: #6b7280;
-    --background: #ffffff;
-    --section-bg: #f3f4f6;
-}
-```
+## Technical Implementation
 
-### Adding Projects
-To add a new project, copy and paste the following structure in the projects section:
-```html
-<div class="project-card">
-    <div class="project-image">
-        <img src="path-to-your-image" alt="Project Name">
-    </div>
-    <div class="project-info">
-        <h3>Project Name</h3>
-        <p>Project description</p>
-        <div class="project-links">
-            <a href="#" class="btn small">View Demo</a>
-            <a href="#" class="btn small">GitHub</a>
-        </div>
-    </div>
-</div>
-```
+The site is built with:
+- HTML5 for structure
+- CSS3 for styling and animations
+- JavaScript for interactive features
+- Responsive design principles
 
-## Deployment
+## Development
 
-This website can be easily deployed to GitHub Pages:
+To work with this repository locally:
 
-1. Go to your repository settings
-2. Scroll down to the GitHub Pages section
-3. Select the main branch as the source
-4. Your site will be published at `https://yourusername.github.io/repository-name`
+1. Clone the repository
+2. Make desired changes to the content or styling
+3. Test changes locally
+4. Push updates to GitHub
 
-## Contributing
+## Contact
 
-Feel free to submit issues and enhancement requests!
+- Email: sr1209@georgetown.edu
+- GitHub: [@shawn-rhoads](https://github.com/shawn-rhoads)
+- Twitter: [@shawn_rhoads](https://twitter.com/shawn_rhoads)
+- LinkedIn: [shawn-rhoads](https://linkedin.com/in/shawn-rhoads)
 
 ## License
 
